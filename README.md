@@ -94,29 +94,28 @@ Os protótipos servem como base para validação visual, usabilidade e futuras i
 
 O desenvolvimento do Portal Programador é apoiado por ferramentas modernas de gestão, design e versionamento, incluindo:
 
-#### Gestão de Projetos: Trello e Jira
-#### Versionamento de Código: Git/GitHub
-#### Design e Prototipação: Figma
-#### Planejamento e Visão Geral: Miro
-#### Documentação e Arquivos: Google Drive
+   - #### Gestão de Projetos: Trello e Jira
+   - #### Versionamento de Código: Git/GitHub
+   - #### Design e Prototipação: Figma
+   - #### Planejamento e Visão Geral: Miro
+   - #### Documentação e Arquivos: Google Drive
 
-8. Links do Projeto
+## 8. Links do Projeto
 
-Jira / Trello:
-https://portal-programador.atlassian.net/jira/core/projects/PP/components
+-- Jira / Trello:
+<a href= "https://portal-programador.atlassian.net/jira/core/projects/PP/components">Jira</a>
 
-Figma (Protótipos V1):
-https://www.figma.com/design/Xwz6WkWJslJpNq06EE1hVn/Portal-Programador-V1
+-- Figma (Protótipos V1):
+<a href= "https://www.figma.com/design/Xwz6WkWJslJpNq06EE1hVn/Portal-Programador-V1">Figma</a>
 
-<a href= "https://www.figma.com/design/Xwz6WkWJslJpNq06EE1hVn/Portal-Programador-V1
-">Figma</a>
+-- Overview do Projeto (Miro):
+<a href=
+"https://miro.com/welcomeonboard/KzVNMGxEcTRWZ2lBVHl0VjZQQUsxQ0hMWVFlUFNWeFpTdTN1bWpnT0J2azZwQkoydnBuSFdHWFZqUE9JYnpQekQrN3J5NU4xV0JRdXFVeFQrQkYwam9NeWJiYTdCVEhkcndvTnBhcDNxTi9FUXgyRTNNVlJ2RFVJYkxoYk8yUG5hWWluRVAxeXRuUUgwWDl3Mk1qRGVRPT0hdjE=?share_link_id=532311782010">Miro</a>
 
-Overview do Projeto (Miro):
-https://miro.com/welcomeonboard/KzVNMGxEcTRWZ2lBVHl0VjZQQUsxQ0hMWVFlUFNWeFpTdTN1bWpnT0J2azZwQkoydnBuSFdHWFZqUE9JYnpQekQrN3J5NU4xV0JRdXFVeFQrQkYwam9NeWJiYTdCVEhkcndvTnBhcDNxTi9FUXgyRTNNVlJ2RFVJYkxoYk8yUG5hWWluRVAxeXRuUUgwWDl3Mk1qRGVRPT0hdjE=?share_link_id=532311782010
+-- Google Drive:
+<a href= "https://drive.google.com/drive/folders/1Fk_qEoY1QhS_4TrQWlcJSdP4QLVliDTj">Google Drive</a>
 
-Google Drive:
-https://drive.google.com/drive/folders/1Fk_qEoY1QhS_4TrQWlcJSdP4QLVliDTj
 
-#### 9. Considerações Finais
+## 9. Considerações Finais
 
 O Portal Programador nasce como uma proposta de ecossistema digital para desenvolvimento colaborativo, integrando tecnologia, organização e comunidade em uma única plataforma. Sua estrutura modular e escalável permite evolução contínua, tornando-o adequado tanto para projetos acadêmicos quanto para iniciativas profissionais e institucionais.
