@@ -5,7 +5,7 @@ O Portal Programador é uma plataforma web voltada para a centralização, organ
 
 A proposta do portal é atuar como um hub de desenvolvimento, reunindo ferramentas, fluxos e informações essenciais para apoiar todo o ciclo de vida do software, desde a concepção da ideia até a entrega e avaliação das soluções desenvolvidas.
 
-``2. Objetivo da Plataforma``
+`2. Objetivo da Plataforma`
 
 O Portal Programador tem como principais objetivos:
   - Centralizar projetos de desenvolvimento de software em um único ambiente
